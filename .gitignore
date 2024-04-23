@@ -1,0 +1,6 @@
+libraries/*
+examples/*
+modes/*
+tools/*
+application*
+*.autosave

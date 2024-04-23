@@ -1,0 +1,44 @@
+{
+  "obj": [{
+    "vx": 0,
+    "vy": 0,
+    "mass": 40,
+    "x": 0,
+    "sprite": {
+      "frameCount": 1,
+      "tw": 60,
+      "th": 60,
+      "texture": "guy",
+      "w": 60,
+      "h": 60,
+      "scale": 1,
+      "class": "Sprite"
+    },
+    "y": 19162.66796875,
+    "body": {
+      "shape": 300,
+      "width": 60,
+      "type": 322,
+      "class": "Physics_Body",
+      "friction": true,
+      "height": 60
+    },
+    "class": "Game_Object",
+    "layer": 225,
+    "guide": {
+      "jumpHeight": 30,
+      "class": "Eblock_Controller",
+      "speed": 0.550000011920929
+    }
+  }],
+  "cams": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": -500,
+      "y": 18762.66796875
+    }
+  ]
+}

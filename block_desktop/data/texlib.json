@@ -1,0 +1,25 @@
+{
+	textures: [
+		{name:"blue-tile", path:"blue-tile.png"},
+		{name:"bush", path:"bush.png"},
+		{name:"bush2", path:"bush2.png"},
+		{name:"orb", path:"orb.png"},
+		{name:"fire", path:"CampFireFinished.png"},
+		{name:"grass", path:"grass.png"},
+		{name:"ground", path:"ground.png"},
+		{name:"guy", path:"guy.png"},
+		{name:"steel-x", path:"Steel-X.png"},
+		{name:"portal", path:"portal.png"},
+		{name:"stone", path:"stone.png"},
+		{name:"enemy", path:"Enemy.png"},
+		{name:"stone-edge", path:"stone-edge.png"},
+		{name:"steel-slab", path:"Metal-slab.png"},
+		{name:"steel-x-vert", path:"Metal-vert.png"},
+		{name:"fan", path:"fan.png"},
+		{name:"short-grass", path:"short-grass.png"},
+		{name:"kabob", path:"kabob.png"},
+		{name:"arrow", path:"arrow.png"}
+	]
+	
+}
+    

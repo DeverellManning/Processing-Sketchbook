@@ -1,0 +1,148 @@
+class Physics_Body extends Game_Component{
+  int shape, type;
+  float width, height;
+  Boolean support, touching;
+  Boolean friction;
+  
+  Physics_Body() {
+    this.clss = "Physics_Body";
+    friction = true;
+  }
+  Physics_Body(int _type, int _shape, float _radius) {
+    this();
+    this.shape = _shape;
+    this.type = _type;
+    
+    if (_shape == CS_CIRCLE) {
+      this.width = _radius;
+    } else if (_shape == CS_AABB) {
+      this.width = _radius;
+      this.height = _radius;
+    }
+  }
+  Physics_Body(int _type, int _shape, float _width, float _height) {
+    this();
+    this.shape = _shape;
+    this.type = _type;
+    
+    if (_shape == CS_CIRCLE) {
+      this.width = _width;
+    } else if (_shape == CS_AABB) {
+      this.width = _width;
+      this.height = _height;
+    }
+  }
+  Physics_Body(JSONObject j) {
+    this();
+    type = j.getInt("type");
+    shape = j.getInt("shape");
+    
+    width = j.getFloat("width");
+    height = j.getFloat("height");
+    
+    friction = j.getBoolean("friction");
+  }
+  
+  void update() {
+    support = false;
+    touching = false;
+    
+    float x = parent.x;
+    float y = parent.y;
+    
+    if (type == CT_DYNAMIC) {
+      for(int i = 0; i<world.obj.size(); i++) {
+        Game_Object c = world.obj.get(i);
+        if (c.body == null)
+          continue;
+        Physics_Body cb = c.body;
+        if (cb.type == CT_NONE)
+          continue;
+        if (c.x == x && c.y == y)
+          continue;
+        
+        //AABB
+        Boolean xLap = x + this.width >= c.x && c.x + cb.width >= x;
+        Boolean yLap = y + this.height >= c.y && c.y + cb.height >= y;
+        
+        if (xLap && yLap || true) {
+          if ( y + this.height > c.y + height/2 && c.y + cb.height > y ) {
+            //Right
+            if (x < c.x + cb.width && x + width > c.x + cb.width) {
+              touching = true;
+              parent.x = c.x + cb.width + 1;
+              parent.vx = 0.3;
+            }// else //{
+            
+              //Left
+              if (x + width > c.x && x + width < c.x + cb.width) {
+                touching = true;
+                parent.x = c.x - width - 1;
+                parent.vx = -0.3;
+              }
+            }
+            
+
+          //}
+          
+          if ( (x < c.x + cb.width - 2 && x >= c.x) || 
+               (x + width > c.x + 2 && x < c.x)) {
+            //Top
+            if (y < c.y + cb.height && y + height > c.y + cb.height) {
+              touching = true;
+              if (parent.vy < 0 ) {
+                parent.y = c.y + cb.height + 5;
+                parent.vy = 0.2;
+              }
+            }
+            
+            //Bottom
+            if (y + height >= c.y && y + height < c.y + cb.height) {
+              support = true;
+              touching = true;
+              if (parent.vy > 0) {
+                parent.y = c.y - height; // - 1;
+                //this.vy *= 0.1;
+                parent.vy = 0;
+              }
+            }
+          }
+          
+          
+        }
+      }
+      
+      
+      
+      if (touching) {
+        parent.vx *= 0.71;
+        parent.vy *= 0.71;
+      } else {
+        parent.vx *= 0.9;
+        parent.vy *= 0.9;
+      }
+      
+      //If there is no ground:
+      if (support == false) {
+        //Gravity
+        parent.ay += world.gravity;
+      } else {
+        //this.vy = 0;
+      }
+      
+      
+    
+    }
+    
+  }
+  
+  JSONObject saveJSON() {
+    JSONObject j = super.saveJSON();
+    j.setInt("shape", shape);
+    j.setInt("type", type);
+    j.setFloat("width", width);
+    j.setFloat("height", height);
+    j.setBoolean("friction", friction);
+    return j;
+  }
+}

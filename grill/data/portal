@@ -1,0 +1,46 @@
+{
+  "skyColor": -389023,
+  "sx": 0,
+  "gravity": 600,
+  "sy": 0,
+  "obj": [{
+    "vx": 0,
+    "vy": 0,
+    "mass": 40,
+    "x": 0,
+    "sprite": {
+      "frameCount": 7,
+      "tw": 64,
+      "th": 64,
+      "texture": "portal",
+      "w": 448,
+      "h": 64,
+      "scale": 1,
+      "class": "Animated_Sprite"
+    },
+    "y": 256,
+    "facing": false,
+    "body": {
+      "shape": 300,
+      "tx": 0,
+      "ty": 0,
+      "width": 55,
+      "type": 321,
+      "class": "Portal_Physics",
+      "friction": 0.4000000059604645,
+      "height": 55
+    },
+    "class": "Game_Object",
+    "layer": 225
+  }],
+  "cams": [
+    {
+      "x": -432,
+      "y": -264
+    },
+    {
+      "x": -1574,
+      "y": 2712
+    }
+  ]
+}

@@ -1,0 +1,4243 @@
+{
+  "skyColor": -6619118,
+  "sx": 0,
+  "gravity": 920,
+  "sy": 0,
+  "obj": [
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 0,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 64,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1280,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 0,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 64,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -64,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 384,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 448,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 512,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 640,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 576,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 704,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 768,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 832,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -64,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 448,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 384,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 512,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 576,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 640,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 832,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 384,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 448,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 512,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 576,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 640,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 704,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 768,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 384,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 448,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 512,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 576,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 640,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 384,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 448,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 512,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 576,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 640,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 704,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 768,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 832,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 384,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 448,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 512,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 576,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 640,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 704,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 768,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 832,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1344,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 496,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 48,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 624,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 288,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 208,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 560,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 560,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 880,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 240,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1232,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 512,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 768,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1232,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 416,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 96,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1168,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -16,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1168,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 688,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1072,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -112,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1232,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 112,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1264,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 896,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1280,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 976,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 1072,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 1168,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "ground",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 1168,
+      "sprite": {
+        "frameCount": 7,
+        "tw": 64,
+        "th": 64,
+        "texture": "portal",
+        "w": 448,
+        "h": 64,
+        "scale": 1,
+        "class": "Animated_Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "tLevel": "l1",
+        "shape": 300,
+        "tx": 0,
+        "ty": 0,
+        "width": 55,
+        "type": 321,
+        "class": "Portal_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    }
+  ],
+  "cams": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": -470,
+      "y": -370
+    }
+  ]
+}

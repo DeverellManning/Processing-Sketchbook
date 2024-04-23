@@ -1,0 +1,2128 @@
+{
+  "obj": [
+    {
+      "vx": -1.9326577186584473,
+      "vy": -5.832043290139588E-13,
+      "x": -462.6071472167969,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 384,
+        "h": 64
+      },
+      "y": -149.9998779296875,
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 0,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 235.59603881835938,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 50,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 330.582763671875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 100,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 263.2506103515625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 150,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 347.78173828125,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 200,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 298.2741394042969,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 250,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 353.2717590332031,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 300,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 367.7415466308594,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 350,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 149.4070281982422,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 400,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 40.5761604309082,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 450,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 289.18646240234375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 500,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 248.8818359375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 550,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 397.5220947265625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 600,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 159.56875610351562,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 650,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 187.87648010253906,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 700,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 279.08428955078125,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 750,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 270.6086730957031,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 800,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 359.6141357421875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 850,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 158.8992156982422,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 900,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 466.314208984375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 950,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 138.75473022460938,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1000,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 280.85498046875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1050,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 484.0018615722656,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1100,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 150.096923828125,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1150,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 4.302799701690674,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1200,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 197.69668579101562,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1250,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 382.4293518066406,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1300,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 37.6973762512207,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1350,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 382.6081237792969,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1400,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 448.8157653808594,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1450,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 401.230224609375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1500,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 304.9840393066406,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1550,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 411.71087646484375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1600,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 171.21827697753906,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1650,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 347.4954528808594,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1700,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 286.4006042480469,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1750,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 71.65733337402344,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1800,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 180.0988006591797,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1850,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 168.8683319091797,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1900,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 271.0421447753906,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1950,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 157.67166137695312,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2000,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 37.63899230957031,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2050,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 330.32318115234375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2100,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 119.26591491699219,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2150,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 166.9535675048828,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2200,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 19.169212341308594,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2250,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 238.5895233154297,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2300,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 399.0872497558594,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2350,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 271.185791015625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2400,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 228.85089111328125,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2450,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 66.7418212890625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2500,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 291.6470642089844,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2550,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 89.56819915771484,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2600,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 461.58184814453125,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2650,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 217.9739532470703,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2700,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 228.43157958984375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2750,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 498.1112365722656,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2800,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 108.36071014404297,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2850,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 403.59429931640625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2900,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 143.14114379882812,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2950,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 196.8300323486328,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3000,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 271.8542785644531,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3050,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 261.535888671875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3100,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 461.9037170410156,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3150,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 358.2674560546875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3200,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 493.1978759765625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3250,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 200.45840454101562,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3300,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 325.9998779296875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3350,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 338.3760070800781,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3400,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 293.7336120605469,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3450,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 164.67654418945312,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3500,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 170.79978942871094,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3550,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 498.211669921875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3600,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 442.88214111328125,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3650,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 197.08799743652344,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3700,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 247.91619873046875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3750,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 55.202125549316406,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3800,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 69.88927459716797,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3850,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 52.972286224365234,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3900,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 119.67406463623047,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3950,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 113.0787124633789,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4000,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 419.8367004394531,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4050,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 435.5169677734375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4100,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 416.2126159667969,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4150,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 456.0924072265625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4200,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 197.92654418945312,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4250,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 284.3062744140625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4300,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 386.5208740234375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4350,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 96.13043212890625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4400,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 168.30718994140625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4450,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 27.43047523498535,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4500,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 101.41563415527344,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4550,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 230.12054443359375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4600,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 350.10479736328125,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4650,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 484.5739440917969,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4700,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 255.17030334472656,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4750,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 163.03846740722656,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4800,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 42.14933395385742,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4850,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 87.19131469726562,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4900,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 234.7825927734375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 4950,
+      "sprite": {
+        "tw": 1,
+        "th": 1,
+        "texture": "tbd",
+        "w": 32,
+        "h": 32
+      },
+      "y": 131.3602752685547,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 0,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 275.2565002441406,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 100,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 173.6133270263672,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 200,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 35.772560119628906,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 300,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 216.55294799804688,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 400,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 383.1424865722656,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 500,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 404.4933776855469,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 600,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 437.07794189453125,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 700,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 339.5302429199219,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 800,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 183.84176635742188,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 900,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 342.14361572265625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1000,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 326.4050598144531,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1100,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 326.05633544921875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1200,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 417.76171875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1300,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 334.3212585449219,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1400,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 91.30242156982422,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1500,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 35.52216339111328,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1600,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 165.4695281982422,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1700,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 226.18209838867188,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1800,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 213.36314392089844,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 1900,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 224.26608276367188,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2000,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 70.78215789794922,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2100,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 239.06068420410156,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2200,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 310.416259765625,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2300,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 330.0433349609375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2400,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 45.416744232177734,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2500,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 207.26376342773438,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2600,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 285.04241943359375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2700,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 109.20661926269531,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2800,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 448.9906921386719,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 2900,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 122.35552215576172,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3000,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 438.6807556152344,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3100,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 76.31999206542969,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3200,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 254.27471923828125,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3300,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 376.3074645996094,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3400,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 59.52233123779297,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3500,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 83.1361083984375,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3600,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 114.3401870727539,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3700,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 52.40473175048828,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3800,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 281.93377685546875,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "x": 3900,
+      "sprite": {
+        "tw": 64,
+        "th": 64,
+        "texture": "tbd",
+        "w": 320,
+        "h": 64
+      },
+      "y": 26.69692039489746,
+      "class": "Game_Object",
+      "layer": 1
+    },
+    {
+      "x": -3906,
+      "y": -276
+    },
+    {
+      "x": -862.607177734375,
+      "y": -549.9998779296875
+    }
+  ],
+  "cams": []
+}
