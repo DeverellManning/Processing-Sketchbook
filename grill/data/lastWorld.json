@@ -1016,7 +1016,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -255.9999542236328,
+      "x": -255.99996948242188,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -1044,7 +1044,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -319.9998474121094,
+      "x": -319.99981689453125,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -1128,7 +1128,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -512,
+      "x": -511.99993896484375,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -1492,7 +1492,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -575.999755859375,
+      "x": -575.9996948242188,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -1520,7 +1520,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -640.0009765625,
+      "x": -640.0010375976562,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -1531,7 +1531,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": 576.0009765625,
+      "y": 576.0010375976562,
       "facing": false,
       "body": {
         "shape": 300,
@@ -1615,7 +1615,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": 576.0006103515625,
+      "y": 576.0005493164062,
       "facing": false,
       "body": {
         "shape": 300,
@@ -2220,7 +2220,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1088.0006103515625,
+      "x": 1088.00048828125,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -4068,7 +4068,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1087.9993896484375,
+      "x": 1088,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -4152,7 +4152,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1088.00048828125,
+      "x": 1088.0001220703125,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -6292,7 +6292,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 576,
+      "x": 575.9999389648438,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -6404,7 +6404,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1216,
+      "x": 1215.9998779296875,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -6415,7 +6415,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -640,
+      "y": -639.9998168945312,
       "facing": false,
       "body": {
         "shape": 300,
@@ -6432,7 +6432,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1216.0001220703125,
+      "x": 1216,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -18752,7 +18752,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1151.99951171875,
+      "x": 1151.9996337890625,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -18763,7 +18763,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -576.000732421875,
+      "y": -576.0007934570312,
       "facing": false,
       "body": {
         "shape": 300,
@@ -18780,7 +18780,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1088.0006103515625,
+      "x": 1088.000244140625,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -18819,7 +18819,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -575.9996948242188,
+      "y": -575.999755859375,
       "facing": false,
       "body": {
         "shape": 300,
@@ -18836,7 +18836,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 992.0003662109375,
+      "x": 992.0001220703125,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -18847,7 +18847,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -575.9996948242188,
+      "y": -575.9996337890625,
       "facing": false,
       "body": {
         "shape": 300,
@@ -19016,7 +19016,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -128.00006103515625,
+      "y": -128,
       "facing": true,
       "body": {
         "shape": 300,
@@ -19641,7 +19641,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -63.99995422363281,
+      "x": -63.999961853027344,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -19669,7 +19669,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 768,
+      "x": 767.9999389648438,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -19698,7 +19698,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 960,
+      "x": 960.0004272460938,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -19709,7 +19709,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -1631.9990234375,
+      "y": -1631.9993896484375,
       "facing": false,
       "body": {
         "shape": 300,
@@ -19726,7 +19726,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1023.999267578125,
+      "x": 1023.9998779296875,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -19737,7 +19737,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -1631.9993896484375,
+      "y": -1631.9990234375,
       "facing": false,
       "body": {
         "shape": 300,
@@ -21670,7 +21670,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1920.000732421875,
+      "x": 1920.000244140625,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -21726,7 +21726,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2047.9990234375,
+      "x": 2047.999755859375,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -21810,7 +21810,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2240,
+      "x": 2239.999755859375,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -24858,7 +24858,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2432.001953125,
+      "x": 2432.001708984375,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -25026,7 +25026,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2367.9990234375,
+      "x": 2367.998779296875,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -27754,7 +27754,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": 736.0001831054688,
+      "y": 736,
       "facing": true,
       "body": {
         "shape": 300,
@@ -30019,7 +30019,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 767.9999389648438,
+      "x": 768,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -30030,7 +30030,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": 1216.0003662109375,
+      "y": 1216.000244140625,
       "facing": true,
       "body": {
         "shape": 300,
@@ -30058,7 +30058,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": 1152,
+      "y": 1152.0001220703125,
       "facing": true,
       "body": {
         "shape": 300,
@@ -30075,7 +30075,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 832.0001220703125,
+      "x": 832,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -30086,7 +30086,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": 704.0000610351562,
+      "y": 704,
       "facing": true,
       "body": {
         "shape": 300,
@@ -30103,7 +30103,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 832.0001220703125,
+      "x": 832,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -30131,7 +30131,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 448.00030517578125,
+      "x": 448.000244140625,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -30299,7 +30299,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 800.0001220703125,
+      "x": 800,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -30310,7 +30310,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": 831.9999389648438,
+      "y": 832,
       "facing": true,
       "body": {
         "shape": 300,
@@ -36026,7 +36026,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -608.0001220703125,
+      "y": -608.0000610351562,
       "facing": false,
       "body": {
         "shape": 300,
@@ -36043,7 +36043,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -159.99996948242188,
+      "x": -160,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -36054,7 +36054,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -543.9998779296875,
+      "y": -544,
       "facing": false,
       "body": {
         "shape": 300,
@@ -36082,7 +36082,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -592.0000610351562,
+      "y": -592,
       "facing": false,
       "body": {
         "shape": 300,
@@ -36279,7 +36279,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 320.00006103515625,
+      "x": 319.9999694824219,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -36363,7 +36363,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -255.99996948242188,
+      "x": -256,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -36430,7 +36430,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -1216.0001220703125,
+      "y": -1216,
       "facing": false,
       "body": {
         "shape": 300,
@@ -36514,7 +36514,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -1216.0001220703125,
+      "y": -1216,
       "facing": true,
       "body": {
         "shape": 300,
@@ -36570,7 +36570,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -1216.0001220703125,
+      "y": -1216,
       "facing": false,
       "body": {
         "shape": 300,
@@ -36812,7 +36812,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -512,
+      "x": -512.0000610351562,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -36823,7 +36823,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2175.99853515625,
+      "y": -2175.998779296875,
       "facing": false,
       "body": {
         "shape": 300,
@@ -36851,7 +36851,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2176,
+      "y": -2176.000244140625,
       "facing": false,
       "body": {
         "shape": 300,
@@ -36868,7 +36868,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -319.9999084472656,
+      "x": -319.99993896484375,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -36896,7 +36896,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -320.0001220703125,
+      "x": -320.0003356933594,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -36907,7 +36907,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2175.993896484375,
+      "y": -2175.99658203125,
       "facing": false,
       "body": {
         "shape": 300,
@@ -36924,7 +36924,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -255.9999542236328,
+      "x": -255.99981689453125,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -36935,7 +36935,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2175.997802734375,
+      "y": -2175.998779296875,
       "facing": false,
       "body": {
         "shape": 300,
@@ -37204,7 +37204,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -1087.99951171875,
+      "x": -1087.9998779296875,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -37215,7 +37215,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -2239.999267578125,
+      "y": -2240.000244140625,
       "facing": false,
       "body": {
         "shape": 300,
@@ -37260,7 +37260,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -1023.999755859375,
+      "x": -1024,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -37271,7 +37271,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -2304.000244140625,
+      "y": -2304,
       "facing": false,
       "body": {
         "shape": 300,
@@ -37523,7 +37523,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -2559.9990234375,
+      "y": -2559.999267578125,
       "facing": false,
       "body": {
         "shape": 300,
@@ -40859,7 +40859,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2175.99755859375,
+      "y": -2175.999267578125,
       "facing": false,
       "body": {
         "shape": 300,
@@ -40876,7 +40876,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -128.00039672851562,
+      "x": -128.00009155273438,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -40887,7 +40887,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2176.0087890625,
+      "y": -2176.00146484375,
       "facing": false,
       "body": {
         "shape": 300,
@@ -40904,7 +40904,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -64.00003814697266,
+      "x": -64.00003051757812,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -40915,7 +40915,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2175.997802734375,
+      "y": -2175.998779296875,
       "facing": false,
       "body": {
         "shape": 300,
@@ -40932,7 +40932,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 4.57763671875E-5,
+      "x": 7.62939453125E-6,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -40943,7 +40943,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2176.00048828125,
+      "y": -2175.998779296875,
       "facing": false,
       "body": {
         "shape": 300,
@@ -40960,7 +40960,35 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -1024.00048828125,
+      "x": -1024.000244140625,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "blue-tile",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -2175.999267578125,
+      "facing": false,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -959.9998779296875,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -40972,34 +41000,6 @@
         "class": "Sprite"
       },
       "y": -2175.99951171875,
-      "facing": false,
-      "body": {
-        "shape": 300,
-        "width": 64,
-        "type": 321,
-        "class": "Physics_Body",
-        "friction": 0.4000000059604645,
-        "height": 64
-      },
-      "class": "Game_Object",
-      "layer": 225
-    },
-    {
-      "vx": 0,
-      "vy": 0,
-      "mass": 40,
-      "x": -960.0001831054688,
-      "sprite": {
-        "frameCount": 0,
-        "tw": 64,
-        "th": 64,
-        "texture": "blue-tile",
-        "w": 64,
-        "h": 64,
-        "scale": 1,
-        "class": "Sprite"
-      },
-      "y": -2176.001220703125,
       "facing": false,
       "body": {
         "shape": 300,
@@ -41996,7 +41996,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2623.999755859375,
+      "x": 2624.00048828125,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -42080,7 +42080,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2431.99951171875,
+      "x": 2432,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -42147,7 +42147,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -448.00006103515625,
+      "y": -448.0000915527344,
       "facing": false,
       "body": {
         "shape": 300,
@@ -42164,7 +42164,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2303.999267578125,
+      "x": 2303.99951171875,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -42192,35 +42192,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2368.000244140625,
-      "sprite": {
-        "frameCount": 0,
-        "tw": 32,
-        "th": 32,
-        "texture": "stone",
-        "w": 32,
-        "h": 32,
-        "scale": 2,
-        "class": "Sprite"
-      },
-      "y": -319.99993896484375,
-      "facing": false,
-      "body": {
-        "shape": 300,
-        "width": 64,
-        "type": 321,
-        "class": "Physics_Body",
-        "friction": 0.4000000059604645,
-        "height": 64
-      },
-      "class": "Game_Object",
-      "layer": 225
-    },
-    {
-      "vx": 0,
-      "vy": 0,
-      "mass": 40,
-      "x": 2496.0009765625,
+      "x": 2368,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -42248,7 +42220,35 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2431.99951171875,
+      "x": 2496.00048828125,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "stone",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": -320,
+      "facing": false,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 321,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 2432.000244140625,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -42315,7 +42315,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -320.0000305175781,
+      "y": -319.99993896484375,
       "facing": false,
       "body": {
         "shape": 300,
@@ -42332,7 +42332,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2624.00048828125,
+      "x": 2623.999755859375,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -42399,7 +42399,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -256.00006103515625,
+      "y": -255.99996948242188,
       "facing": false,
       "body": {
         "shape": 300,
@@ -42427,7 +42427,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -256,
+      "y": -255.99996948242188,
       "facing": false,
       "body": {
         "shape": 300,
@@ -42444,7 +42444,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2944.00048828125,
+      "x": 2943.9990234375,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -42455,7 +42455,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -256,
+      "y": -255.99996948242188,
       "facing": false,
       "body": {
         "shape": 300,
@@ -42483,7 +42483,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -255.99993896484375,
+      "y": -256,
       "facing": false,
       "body": {
         "shape": 300,
@@ -42500,7 +42500,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 3071.99951171875,
+      "x": 3072.000244140625,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -42511,7 +42511,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -255.99996948242188,
+      "y": -256,
       "facing": false,
       "body": {
         "shape": 300,
@@ -42640,7 +42640,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 3391.99951171875,
+      "x": 3392.000244140625,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -42668,7 +42668,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1727.9993896484375,
+      "x": 1728,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -47704,7 +47704,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 64.00022888183594,
+      "x": 64.0000228881836,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -47715,7 +47715,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2176.001708984375,
+      "y": -2176.001220703125,
       "facing": false,
       "body": {
         "shape": 300,
@@ -47743,7 +47743,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2175.999267578125,
+      "y": -2175.99951171875,
       "facing": false,
       "body": {
         "shape": 300,
@@ -47760,7 +47760,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 192.0000762939453,
+      "x": 192.00006103515625,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -47771,7 +47771,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2240,
+      "y": -2240.00048828125,
       "facing": false,
       "body": {
         "shape": 300,
@@ -47788,7 +47788,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 192.00001525878906,
+      "x": 191.99996948242188,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -47799,7 +47799,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2303.99951171875,
+      "y": -2303.999755859375,
       "facing": false,
       "body": {
         "shape": 300,
@@ -47900,7 +47900,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -639.9999389648438,
+      "x": -640,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -48836,7 +48836,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -1856.000244140625,
+      "x": -1856,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -48847,7 +48847,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -1407.999755859375,
+      "y": -1408,
       "facing": false,
       "body": {
         "shape": 300,
@@ -48864,7 +48864,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -1919.9998779296875,
+      "x": -1920.000244140625,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -48892,7 +48892,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -1983.999755859375,
+      "x": -1984.0001220703125,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -48903,7 +48903,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -1344.0001220703125,
+      "y": -1343.999755859375,
       "facing": false,
       "body": {
         "shape": 300,
@@ -49032,7 +49032,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -2047.9991455078125,
+      "x": -2047.999755859375,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -49060,7 +49060,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -2111.99951171875,
+      "x": -2112,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -49088,7 +49088,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -996.63330078125,
+      "x": -1007.2255249023438,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -49099,7 +49099,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2239.900146484375,
+      "y": -2239.8984375,
       "facing": true,
       "body": {
         "shape": 300,
@@ -49142,7 +49142,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 127.89907836914062,
+      "x": -130.8203887939453,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -49153,8 +49153,42 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2272.724853515625,
-      "facing": false,
+      "y": -2240.02294921875,
+      "facing": true,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 2848.662109375,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -319.8990478515625,
+      "facing": true,
       "body": {
         "shape": 300,
         "width": 64,
@@ -50056,7 +50090,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -2175.99951171875,
+      "x": -2176,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -50067,7 +50101,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -1344.0001220703125,
+      "y": -1343.999755859375,
       "facing": false,
       "body": {
         "shape": 300,
@@ -59838,7 +59872,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -220.46240234375,
+      "x": -315.69378662109375,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -59849,7 +59883,75 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2271.580322265625,
+      "y": -2239.897705078125,
+      "facing": false,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -27.45279312133789,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -2240.020263671875,
+      "facing": false,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
+        "class": "Enemy_AI",
+        "speed": 9000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -210.86923217773438,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": -2239.898193359375,
       "facing": true,
       "body": {
         "shape": 300,
@@ -59872,7 +59974,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -156.58816528320312,
+      "x": 2432.1005859375,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -59883,144 +59985,8 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -2240.0400390625,
-      "facing": false,
-      "body": {
-        "shape": 300,
-        "width": 64,
-        "type": 322,
-        "class": "Physics_Body",
-        "friction": 0.4000000059604645,
-        "height": 64
-      },
-      "class": "Game_Object",
-      "layer": 225,
-      "guide": {
-        "jumpHeight": 3000,
-        "health": 5,
-        "class": "Enemy_AI",
-        "speed": 9000
-      }
-    },
-    {
-      "vx": 0,
-      "vy": 0,
-      "mass": 40,
-      "x": -295.39697265625,
-      "sprite": {
-        "frameCount": 0,
-        "tw": 64,
-        "th": 64,
-        "texture": "enemy",
-        "w": 64,
-        "h": 64,
-        "scale": 1,
-        "class": "Sprite"
-      },
-      "y": -2239.89697265625,
-      "facing": false,
-      "body": {
-        "shape": 300,
-        "width": 64,
-        "type": 322,
-        "class": "Physics_Body",
-        "friction": 0.4000000059604645,
-        "height": 64
-      },
-      "class": "Game_Object",
-      "layer": 225,
-      "guide": {
-        "jumpHeight": 3000,
-        "health": 5,
-        "class": "Enemy_AI",
-        "speed": 9000
-      }
-    },
-    {
-      "vx": 0,
-      "vy": 0,
-      "mass": 40,
-      "x": 989.2545776367188,
-      "sprite": {
-        "frameCount": 0,
-        "tw": 64,
-        "th": 64,
-        "texture": "enemy",
-        "w": 64,
-        "h": 64,
-        "scale": 1,
-        "class": "Sprite"
-      },
-      "y": -1695.8984375,
-      "facing": false,
-      "body": {
-        "shape": 300,
-        "width": 64,
-        "type": 322,
-        "class": "Physics_Body",
-        "friction": 0.4000000059604645,
-        "height": 64
-      },
-      "class": "Game_Object",
-      "layer": 225,
-      "guide": {
-        "jumpHeight": 3000,
-        "health": 5,
-        "class": "Enemy_AI",
-        "speed": 9000
-      }
-    },
-    {
-      "vx": 0,
-      "vy": 0,
-      "mass": 40,
-      "x": 2112.013916015625,
-      "sprite": {
-        "frameCount": 0,
-        "tw": 64,
-        "th": 64,
-        "texture": "enemy",
-        "w": 64,
-        "h": 64,
-        "scale": 1,
-        "class": "Sprite"
-      },
-      "y": -1632.1282958984375,
+      "y": -1599.899658203125,
       "facing": true,
-      "body": {
-        "shape": 300,
-        "width": 64,
-        "type": 322,
-        "class": "Physics_Body",
-        "friction": 0.4000000059604645,
-        "height": 64
-      },
-      "class": "Game_Object",
-      "layer": 225,
-      "guide": {
-        "jumpHeight": 3000,
-        "health": 5,
-        "class": "Enemy_AI",
-        "speed": 9000
-      }
-    },
-    {
-      "vx": 0,
-      "vy": 0,
-      "mass": 40,
-      "x": 768.101318359375,
-      "sprite": {
-        "frameCount": 0,
-        "tw": 64,
-        "th": 64,
-        "texture": "enemy",
-        "w": 64,
-        "h": 64,
-        "scale": 1,
-        "class": "Sprite"
-      },
-      "y": 767.9860229492188,
-      "facing": false,
       "body": {
         "shape": 300,
         "width": 64,
@@ -60034,6 +60000,40 @@
       "guide": {
         "jumpHeight": 3000,
         "health": 3,
+        "class": "Enemy_AI",
+        "speed": 10000
+      }
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 9.698783874511719,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "enemy",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 645.935302734375,
+      "facing": false,
+      "body": {
+        "shape": 300,
+        "width": 64,
+        "type": 322,
+        "class": "Physics_Body",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225,
+      "guide": {
+        "jumpHeight": 3000,
+        "health": 5,
         "class": "Enemy_AI",
         "speed": 9000
       }
@@ -60102,7 +60102,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -2150.12646484375,
+      "x": -2064.519287109375,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -60113,7 +60113,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -1408.02978515625,
+      "y": -1407.898681640625,
       "facing": true,
       "body": {
         "shape": 300,
@@ -60136,7 +60136,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1727.8985595703125,
+      "x": 1728.06884765625,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -60147,7 +60147,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": 703.9569091796875,
+      "y": 704.1171875,
       "facing": true,
       "body": {
         "shape": 300,
@@ -60170,7 +60170,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 1151.970458984375,
+      "x": -31.986459732055664,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -60181,41 +60181,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -63.869110107421875,
-      "facing": false,
-      "body": {
-        "shape": 300,
-        "width": 64,
-        "type": 322,
-        "class": "Physics_Body",
-        "friction": 0.4000000059604645,
-        "height": 64
-      },
-      "class": "Game_Object",
-      "layer": 225,
-      "guide": {
-        "jumpHeight": 3000,
-        "health": 5,
-        "class": "Enemy_AI",
-        "speed": 9000
-      }
-    },
-    {
-      "vx": 0,
-      "vy": 0,
-      "mass": 40,
-      "x": -78.55068969726562,
-      "sprite": {
-        "frameCount": 0,
-        "tw": 64,
-        "th": 64,
-        "texture": "enemy",
-        "w": 64,
-        "h": 64,
-        "scale": 1,
-        "class": "Sprite"
-      },
-      "y": -2240.03857421875,
+      "y": -639.8988647460938,
       "facing": true,
       "body": {
         "shape": 300,
@@ -60238,7 +60204,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 968.8209838867188,
+      "x": -63.899017333984375,
       "sprite": {
         "frameCount": 0,
         "tw": 64,
@@ -60249,7 +60215,7 @@
         "scale": 1,
         "class": "Sprite"
       },
-      "y": -639.8988037109375,
+      "y": -837.2451171875,
       "facing": false,
       "body": {
         "shape": 300,
@@ -60384,7 +60350,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": 2096,
+      "x": 2096.000244140625,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -61560,7 +61526,7 @@
       "vx": 0,
       "vy": 0,
       "mass": 40,
-      "x": -2223.99951171875,
+      "x": -2223.999755859375,
       "sprite": {
         "frameCount": 0,
         "tw": 32,
@@ -61571,7 +61537,7 @@
         "scale": 2,
         "class": "Sprite"
       },
-      "y": -1407.999267578125,
+      "y": -1407.9998779296875,
       "facing": false,
       "body": {
         "shape": 300,
@@ -61629,34 +61595,6 @@
       },
       "y": -2336,
       "facing": false,
-      "body": {
-        "shape": 300,
-        "width": 55,
-        "type": 321,
-        "class": "Kabob_Physics",
-        "friction": 0.4000000059604645,
-        "height": 55
-      },
-      "class": "Game_Object",
-      "layer": 225
-    },
-    {
-      "vx": 0,
-      "vy": 0,
-      "mass": 40,
-      "x": 2624,
-      "sprite": {
-        "frameCount": 0,
-        "tw": 32,
-        "th": 32,
-        "texture": "kabob",
-        "w": 32,
-        "h": 32,
-        "scale": 2,
-        "class": "Sprite"
-      },
-      "y": -1856,
-      "facing": true,
       "body": {
         "shape": 300,
         "width": 55,
@@ -62770,12 +62708,12 @@
   ],
   "cams": [
     {
-      "x": 589.9561767578125,
-      "y": -2484
+      "x": 1926,
+      "y": -1860
     },
     {
-      "x": -555,
-      "y": -1038
+      "x": 2214,
+      "y": 2779
     }
   ]
 }

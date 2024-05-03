@@ -21,15 +21,15 @@ int mx, my;
 int s_density = 400;
 int s_bsize = 5;
 
-Sand sand = new Sand(6000);
+Sand sand = new Sand(12000);
 
 boolean firstPause=true;
 boolean tk = false;
 boolean addfrozen = true;
 
 void setup() {
-  size(500, 500);
-  frameRate(20);
+  size(500, 500, P2D);
+  frameRate(30);
   //canvas.getContext('2d').willReadFrequently = true
   textAlign(CENTER, CENTER);
   noCursor();
