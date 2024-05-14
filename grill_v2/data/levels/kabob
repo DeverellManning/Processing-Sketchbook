@@ -1,0 +1,5116 @@
+{
+  "skyColor": -8000823,
+  "sx": 0,
+  "gravity": 550,
+  "sy": 0,
+  "obj": [
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 128,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 192,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 256,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 320,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 384,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 448,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 512,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 576,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 640,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 704,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 832,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 896,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 960,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1024,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1088,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1152,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": -64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 0,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 64,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 128,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 192,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 256,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 32,
+        "th": 32,
+        "texture": "kabob",
+        "w": 32,
+        "h": 32,
+        "scale": 2,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "width": 55,
+        "type": 321,
+        "class": "Kabob_Physics",
+        "friction": 0.4000000059604645,
+        "height": 55
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "fan",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 768,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "strength": 50,
+        "width": 64,
+        "type": 321,
+        "class": "Fan_Physics",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    },
+    {
+      "vx": 0,
+      "vy": 0,
+      "mass": 40,
+      "x": 320,
+      "sprite": {
+        "frameCount": 0,
+        "tw": 64,
+        "th": 64,
+        "texture": "fan",
+        "w": 64,
+        "h": 64,
+        "scale": 1,
+        "class": "Sprite"
+      },
+      "y": 1216,
+      "facing": 1,
+      "body": {
+        "shape": 300,
+        "strength": 50,
+        "width": 64,
+        "type": 321,
+        "class": "Fan_Physics",
+        "friction": 0.4000000059604645,
+        "height": 64
+      },
+      "class": "Game_Object",
+      "layer": 225
+    }
+  ],
+  "cams": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": -470,
+      "y": -370
+    }
+  ]
+}

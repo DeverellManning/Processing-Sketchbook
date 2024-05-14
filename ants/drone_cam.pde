@@ -1,0 +1,72 @@
+class Camera {
+  float zoom, speed;
+  float x, y;
+  
+  Camera(float _x, float _y) {
+    //super(_x, _y, L_TOP, null);
+    x = _x;
+    y = _y;
+    this.zoom = 1;
+    this.speed = 1;
+  }
+  void transform() {
+    scale(this.zoom);
+    translate(-this.x, -this.y);
+  }
+  void update() {
+    
+  }
+}
+
+/*class Follow_Camera extends Camera {
+  Game_Object target;
+  
+  Follow_Camera(Game_Object _target, int _maxSpeed) {
+    super(0, 0);
+    target = _target;
+  }
+  void update() {
+    x = round(target.x + target.body.width/2 - hvasX);
+    y = round(target.y + target.body.height/2 - hvasY);
+  }
+}*/
+
+
+class DroneCamera extends Camera {
+  DroneCamera(float _x, float _y) {
+    super(_x, _y);
+
+    this.speed = 6;
+  }
+  void update() {
+    
+    float spd = this.speed / this.zoom;
+    
+    //x -= spd;
+    
+    if (kb.keyDown(SHIFT)) {
+      
+      spd = spd * 6;
+    }
+    if (kb.keyDown('a') || kb.keyDown(65)) {
+      this.x -= spd;
+    }
+    if (kb.keyDown('d') || kb.keyDown(68)) {
+      this.x += spd;
+    }
+    if (kb.keyDown('w') || kb.keyDown(87)) {
+      this.y -= spd;
+    }
+    if (kb.keyDown('s') || kb.keyDown(83)) {
+      this.y += spd;
+    }
+    if (kb.keyDown(69)) { // e - zoom in
+      this.zoom += log(this.zoom*10)/100;
+    }
+    if (kb.keyDown(81)) { // q - zoom out
+      this.zoom -= log(this.zoom*10)/100;
+    }
+    //this.zoom = max(min(this.zoom, 5), 0.4)*/
+
+  }
+}
