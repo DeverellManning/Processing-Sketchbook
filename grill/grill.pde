@@ -15,7 +15,7 @@ float mx, my, gmx, gmy, angle;
 Boolean TextEnter = false;
 
 void settings() {
-  size(vasX, vasY);
+  size(vasX, vasY, P2D);
   noSmooth();
 }
 

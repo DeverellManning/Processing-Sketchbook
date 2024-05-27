@@ -19,6 +19,9 @@ class Enemy_AI extends Eblock_Controller {
   void update() {
     super.update();
     	
+    if (health < 4) { speed = 10000; }
+    if (health < 3) { speed = 14000; }
+    if (health < 2) { speed = 20000; }
 	if (random(100) > 96)
 		flip();
 		
