@@ -13,8 +13,8 @@ class Ant {
     float n, e, s, w;
     
     n = pln.pher[x][y+1];
-    e = pln.pher[x-1][y];
-    s = pln.pher[x][y-1];
+    e = pln.pher[x][y];
+    s = pln.pher[x][y];
     w = pln.pher[x+1][y];
     
     

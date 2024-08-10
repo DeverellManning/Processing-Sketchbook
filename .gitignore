@@ -4,3 +4,4 @@ modes/*
 tools/*
 application*
 *.autosave
+grill_v2/data/lastWorld.json
