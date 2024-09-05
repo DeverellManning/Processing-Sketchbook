@@ -24,12 +24,12 @@ class Boid {
   void init() {
     remove = false;
     
-    x = random(vasX/2-100, vasX/2);
-    y = random(vasY/2-100, vasY/2);
+    x = random(vasX/2-50, vasX/2);
+    y = random(vasY/2-200, vasY/2-150);
   }
   
   void draw() {
-    if (fitness < -260) {
+    if (fitness < -460) {
       world.deathCount++;
       remove = true;
     }
@@ -67,8 +67,8 @@ class Boid {
     ax += cv.x * d.get("3a") / ds;
     ay += cv.y * d.get("3a") / ds;
     
-    ax += rUnit()/4;
-    ay += rUnit()/4;
+    //ax += rUnit()/8;
+    //ay += rUnit()/8;
     
     vx += ax;
     vy += ay;

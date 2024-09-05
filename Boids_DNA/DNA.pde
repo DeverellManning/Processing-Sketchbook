@@ -21,13 +21,19 @@ class DNA extends HashMap<String, Float> {
     put("3y", rUnit());
   }
   
+  DNA(Boolean not) {
+    
+  }
+  
   DNA(DNA d) {
     for (Map.Entry<String, Float> me : d.entrySet()) {
         put(me.getKey(), me.getValue());
     }
     
     if (rUnit() > get("m1")) mutate(1, 0.8);
-    if (rUnit() > get("m2")) mutate(0.07, 0.25);
+    if (rUnit() > get("m2")) mutate(0.05, 0.35);
+    
+    mutate(0.001, 0.1);
   }
   
   void mutate(float amt, float chance) {

@@ -19,7 +19,7 @@ class World {
   Target t;
   
   World() {
-    yearLength = 500;
+    yearLength = 400;
     Boids = new ArrayList<Boid>();
     primeStock = new ArrayList<DNA>();
     targets = new ArrayList<Target>();
@@ -30,9 +30,6 @@ class World {
     //targets.clear();
     
     Boids.clear();
-    for (int i=0;i<count;i++) {
-      Boids.add(new Boid());
-    }
     
     year = 0;
     day = 0;
@@ -41,6 +38,32 @@ class World {
     avgScore = 0;
     //yearAvg = 0;
     yearMax = -1500;
+    
+    DNA d = new DNA(true);
+    d.score = -140;
+    d.put("ax", 0.002522312);
+    d.put("ay", 0.01873244);
+    d.put("damp", 0.8857538);
+    d.put("speed", 0.1848764);
+    d.put("m1", 0.99);
+    d.put("m2", 1.0);
+    d.put("cx", 0.7140223);
+    d.put("cy", -0.21106994);
+    d.put("1a", 0.976993);
+    d.put("1x", -0.29153753);
+    d.put("1y", 0.62908335);
+    d.put("2a", -0.5061422);
+    d.put("2x", -0.28417853);
+    d.put("2y", 0.32231959);
+    d.put("3a", -0.97638);
+    d.put("3x", 0.00359614);
+    d.put("3y", 0.4903437);
+    
+    primeStock.add(d);
+    
+    for (int i=0;i<count;i++) {
+      Boids.add(new Boid(getRandomParent()));
+    }
     
   }
   
@@ -115,7 +138,7 @@ class World {
       Boid cb = Boids.get(i);
       if (cb != null) {
         DNA d = cb.d;
-        d.score = lerp(cb.fitness, avgScore-deathCount*1.6, 0.24);
+        d.score = lerp(cb.fitness, avgScore-deathCount*2, 0.5);
         primeStock.add(d);
       }
     }
@@ -123,28 +146,39 @@ class World {
     maxScore = max(maxScore, yearMax);
     println("Year: " + year + ". Year Average: " + avgScore + ", Year High Score: " + yearMax + ", deaths: " + deathCount + ". ");
     
-    if (primeStock.size() > 15) {
+      //for (DNA d : primeStock) {
+      //  d.score -= 1.5;
+      //}
+      
+      
+      
       Collections.sort(primeStock, new Comparator<DNA>() {
         @Override public int compare(DNA o1, DNA o2) {
           return floor(o1.score) - floor(o2.score);
         }
       });
       
-      //println("Prime stock: Count: " + primeStock.size() + " Scores: Low: " + primeStock.get(0).score + " High: " + primeStock.get(primeStock.size()-1).score);
-      for (int i=0;i<5;i++) {
+      primeStock.get(primeStock.size()-1).score -= 2;
+      
+    if (primeStock.size() > 6) {     
+      println("Prime stock: Count: " + primeStock.size() + " Scores: Low: " + primeStock.get(0).score + " High: " + primeStock.get(primeStock.size()-1).score);
+      for (int i=0;i<3;i++) {
         primeStock.remove(i);
       }
-      
-      for (DNA d : primeStock) {
-        d.score -= 1.2;
+    }
+    
+    if (primeStock.size() > 10) {     
+      println("Prime stock: Count: " + primeStock.size() + " Scores: Low: " + primeStock.get(0).score + " High: " + primeStock.get(primeStock.size()-1).score);
+      for (int i=0;i<4;i++) {
+        primeStock.remove(i);
       }
-      
     }
     
   }
   
   DNA getRandomParent() {
-    return primeStock.get(floor(random(0, primeStock.size())));
+    //return primeStock.get(floor(random(0, primeStock.size())));
+    return primeStock.get(primeStock.size()-1);
   }
   
 }
